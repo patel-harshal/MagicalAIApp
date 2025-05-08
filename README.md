@@ -1,0 +1,2 @@
+# MagicalAIApp
+This is Portfolio
